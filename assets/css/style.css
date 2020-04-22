@@ -254,9 +254,9 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 28px;
 	font-weight: 400 !important;
 	line-height: 1.3;
-	color: #FFFFFF;
+	color: whitesmoke;
 	padding: 5px 10px;
-	background: #0000FF;
+	background: #1106CC;
 	display: inline-block;
 }
 
